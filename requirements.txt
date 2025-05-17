@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+agno
+requests
+google-generativeai
+python-dotenv
+alpha_vantage 
